@@ -1,0 +1,38 @@
+
+
+
+#myCanvas {
+    border-style:dashed;
+    border-color:red black;
+    
+
+    
+
+}
+
+
+html {
+    background-color:palegreen;
+    text-align: center;
+    
+}
+
+p , h3{
+    font-size:20px;
+    font-family: 'Righteous', cursive;
+    color:royalblue;
+}
+
+
+
+
+
+#loadPokeballs {
+    border:5px groove blue;
+    color: rgb(47, 255, 255);
+    background-color:royalblue;
+    border-radius:10px;
+    font-size:32px;
+}
+
+
